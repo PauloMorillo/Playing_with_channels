@@ -41,7 +41,7 @@ numpy==1.18.3
 oauthlib==3.1.0
 opencv-python==4.2.0.34
 pathspec==0.5.9
-Pillow==7.1.2
+Pillow==9.0.0
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
 pycodestyle==2.4.0
