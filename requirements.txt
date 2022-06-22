@@ -37,7 +37,7 @@ lazy-object-proxy==1.4.3
 matplotlib==3.2.1
 mccabe==0.6.1
 mysqlclient @ file:///C:/Users/flia/Downloads/mysqlclient-1.4.6-cp37-cp37m-win32.whl
-numpy==1.18.3
+numpy==1.22.0
 oauthlib==3.1.0
 opencv-python==4.2.0.34
 pathspec==0.5.9
